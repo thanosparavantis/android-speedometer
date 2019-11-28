@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=68:46:CC:3B:CD:0E:EA:8E:D0:F3:7C:45:9A:7F:61:54:C7:43:E4:DD%3Bcom.papei.thanos.speedometer
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    68:46:CC:3B:CD:0E:EA:8E:D0:F3:7C:45:9A:7F:61:54:C7:43:E4:DD
+
+    SHA-1 certificate fingerprint:
+    68:46:CC:3B:CD:0E:EA:8E:D0:F3:7C:45:9A:7F:61:54:C7:43:E4:DD
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCHPyZGdK127Fh32nCXkvsI3pKZo7821YQ</string>
+</resources>
